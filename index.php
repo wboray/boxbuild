@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css">
     <link rel="stylesheet" href="/assets/css/screen.css">
   </head>
-  <body>
+  <body>     
     <header class="site_header">
       <div class="header_top">
         <div class="grid-container">
